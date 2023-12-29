@@ -1,0 +1,41 @@
+/* Ana div'in stilleri */
+.App {
+  text-align: center; 
+  background-color: #05461e;
+  padding: 20px;
+}
+
+
+/* H1'in stilleri */
+h1 {
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+/* Artır/Azalt butonlarının stilleri */
+button {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+
+  /*neon renk vermek için*/
+  border: 2px solid #fff;
+  box-shadow: 0 0 15px #fff;
+}
+
+/* Celsius, Fahrenheit ve Kelvin componentlerinin stilleri */
+.temperature-container {
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #ccc;
+  color:blanchedalmond
+}
+
+
